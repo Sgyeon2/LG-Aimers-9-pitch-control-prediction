@@ -1,0 +1,6 @@
+row_id,season,game_month,game_dayofweek,inning,top_bottom,game_type,balls_before,strikes_before,outs_before,run_top_before,run_bot_before,run_total_before,score_diff_home,score_diff_pitcher_team,runner_on_1b,runner_on_2b,runner_on_3b,num_runners_on,base_state,home_win_expectancy,away_win_expectancy,li,pitcher_id,batter_id,pitcher_hand,batter_hand,pitcher_team_id,batter_team_id
+SAMPLE_0001,2025,3,5,1,T,R,0,0,0,0,0,0,0,0,0,0,0,0,___,50,50,0.87,P_SAMPLE_01,B_SAMPLE_01,1,1,TEAM_SAMPLE_A,TEAM_SAMPLE_B
+SAMPLE_0002,2025,3,5,1,B,R,1,2,1,0,0,0,0,0,1,0,0,1,1__,54.8,45.2,0.91,P_SAMPLE_02,B_SAMPLE_02,1,2,TEAM_SAMPLE_B,TEAM_SAMPLE_A
+SAMPLE_0003,2025,5,2,4,B,R,3,1,2,2,5,7,3,-3,1,0,1,2,1_3,86.4,13.6,0.84,P_SAMPLE_02,B_SAMPLE_03,1,2,TEAM_SAMPLE_B,TEAM_SAMPLE_A
+SAMPLE_0004,2025,5,2,6,T,F,0,2,1,2,6,8,4,4,0,1,0,1,_2_,44.1,55.9,0.22,P_SAMPLE_03,B_SAMPLE_04,2,1,TEAM_SAMPLE_A,TEAM_SAMPLE_B
+SAMPLE_0005,2025,7,6,9,B,R,2,2,2,3,3,6,0,0,0,1,1,2,_23,61.2,38.8,3.15,P_SAMPLE_04,B_SAMPLE_05,2,2,TEAM_SAMPLE_B,TEAM_SAMPLE_A
